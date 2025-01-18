@@ -22,6 +22,10 @@
       "local_name": "tps",
       "connectable": false
     }
+     {
+      "local_name": "ITH*",
+      "connectable": true
+    }
   ],
   "codeowners": ["@bdraco"],
   "config_flow": true,
